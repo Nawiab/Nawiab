@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning:<br>
       - HTML/CSS<br>
       - Javascript<br>
-      - React
-- 💞️ I’m looking to collaborate on awesome projects that I can improve my hability!
+      - React<br>
+- 💞️ I would like to collaborate with awesome projects that I could improve my habilities! :)
 
 PS: "Nawiab" is not my real name, I'm using a fictional name at the moment. <br>
 PS2: I think my Readme is not good yet, but I promise I'm going to improve it soon! :)

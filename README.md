@@ -1,3 +1,14 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nawiab&show_icons=true&theme=algolia&count_private=true)
+<br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 64px; height: 64;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="width: 64px; height: 64;" />
+ 
 👋 Hello, I’m @Nawiab! I'm a high school student, I'm 17 years old and I'm from Brazil 🇧🇷.
 
 - 👀 I’m very interested in front-end development.

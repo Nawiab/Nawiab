@@ -11,7 +11,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-👋 Hello, I’m @Nawiab! I'm a high school student, I'm 17 years old and I'm from Brazil 🇧🇷.
+<img src="images/header.png" alt="👋 Hello, I’m @Nawiab! I'm a high school student, I'm 17 years old and I'm from Brazil 🇧🇷.">
 
 - 👀 I’m very interested in front-end development.
 - 🌱 I’m currently learning:<br>
@@ -26,7 +26,3 @@ PS2: I think my Readme is not good yet, but I promise I'm going to improve it so
 
 Kind Regards,<br>
 Nawiab.
-<!---
-Nawiab/Nawiab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

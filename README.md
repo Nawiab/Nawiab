@@ -1,5 +1,5 @@
 ![Header](https://github.com/Nawiab/Nawiab/blob/main/images/header.png) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nawiab&show_icons=true&theme=algolia&count_private=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nawiab&show_icons=true&theme=algolia&count_private=true&hide_border=true&border_radius=8) 
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

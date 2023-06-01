@@ -34,7 +34,7 @@
  - ⭐ I want to do amazing projects.
 
 ## Contact
- - You can contact me by sending an e-mail to `victor2005contato@gmail.com` or Telegram [`@vboechat`](https://t.me/vboechat)
+ - You can contact me by sending an e-mail to `victor2005contato@gmail.com`
  - You can also find me on [LinkedIn](https://www.linkedin.com/in/victor-ribeiro-boechat-641225238/)
 
 **Kind Regards,<br>

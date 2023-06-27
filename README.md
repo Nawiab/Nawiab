@@ -1,7 +1,7 @@
 <div align="center">
  
 ## Victor Ribeiro Boechat
-A high school student who wants to work as front-end developer / full-stack developer. 
+A high school student who wants to work as a full-stack developer. 
 
 Victor's objective is to be a expert developer and collaborate to awesome projects where he can learn and improve his abilities.
  

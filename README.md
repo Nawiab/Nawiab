@@ -10,7 +10,6 @@ Victor's objective is to be a expert developer and collaborate to awesome projec
 <!-- SOCIAL MEDIA LINKS -->
 <a href="mailto:victor2005contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 <a href="https://www.linkedin.com/in/victor-ribeiro-boechat-641225238/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<a href="https://dev.to/vboechat" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
 
 <details>
  <summary>Front-end</summary>

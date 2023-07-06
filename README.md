@@ -1,7 +1,7 @@
 <div align="center">
  
 ## Victor Ribeiro Boechat
-A high school student who wants to work as a full-stack developer. 
+A high school student who works as a full-stack developer to @sigcoding. 
 
 Victor's objective is to be a expert developer and collaborate to awesome projects where he can learn and improve his abilities.
  
